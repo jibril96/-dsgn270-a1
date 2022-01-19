@@ -20,3 +20,5 @@ Story: As an Apple company customer, I like to be up to date with their products
 8. User now sees Apple MUSIC with Spatial Audio.
 9. User looks at beautiful ipad mini.
 10. User finally looks at the Apple Tv+ and has an option to stream it right away.
+
+![wireflow](https://user-images.githubusercontent.com/97467330/150058454-241e8102-ec91-4dce-a6c3-2e2724fcfc32.png)
